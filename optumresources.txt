@@ -1,0 +1,13 @@
+DCEMasterAccess
+AROAIU4J2NPCGYXQIOPMQ
+AIDAJF5MO57RFXQCE5ZNC
+AKIAUTGOFMZ6SBI6BDMH
+DCEPrincipal-quickstart
+DCEPrincipalDefaultPolicy
+DCEPrincipal
+DCEAdmin
+AdminRole
+AdminAccess
+cloudig
+adminRole
+DCEPrincipal-dce-ffa500
